@@ -20,3 +20,10 @@ int main()
 
    return 0;
 }
+
+/* Output
+
+Enter an integer: 123
+Sum of digits: 6
+
+*/
